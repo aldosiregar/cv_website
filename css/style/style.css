@@ -3,7 +3,7 @@
 }
 
 body {
-    background-color: #09000b;
+    background-color: #00040c;
 }
 
 .particlePosition{
@@ -14,10 +14,11 @@ body {
 }
 
 .nameEmphasize{
-    text-shadow: 4px 4px 8px rgba(113,28,145,1);
+    text-shadow: 4px 4px 6px rgba(113,28,145,1);
 }
 
 .nameIntro{
-    color: 	#0abdc6;
+    color: 	#377fff;
 }
+
 
