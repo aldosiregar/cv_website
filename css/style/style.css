@@ -7,8 +7,9 @@ body {
 }
 
 .particlePosition{
-    position: absolute;
+    position: fixed;
     z-index: -1;
+    background-repeat: repeat;
     width: 100%;
     height: 100%;
 }
@@ -21,4 +22,8 @@ body {
     color: 	#377fff;
 }
 
-
+.LogoSize{
+    max-width: 50px;
+    max-height: 50px;
+    color: white;
+}
