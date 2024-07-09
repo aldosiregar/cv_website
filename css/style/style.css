@@ -27,3 +27,13 @@ body {
     max-height: 50px;
     color: white;
 }
+
+.card-color{
+    background: #000610;
+    transition: all 0.3s ease 0s;
+}
+
+.card-color:hover{
+    background: #00091a;
+    margin-bottom: calc(1%);
+}
